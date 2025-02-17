@@ -7,7 +7,7 @@ Set
 
 Built-in functions
 ---
- len() - the number of its elements
+ len() - the number of its elements.
  sum() - calculates the sum of the elements.
  min(), max() - they take a set as an argument and find the minimum and maximum elements.
  in - it checks whether the set contains some element.
